@@ -15,7 +15,13 @@ const emojiDictionary = {
   "😇": "Smiling Face with Halo",
   "🥰": "Smiling Face with Hearts",
   "❤️": "love",
-  "🤩": "Star-Struck"
+  "🤩": "Star-Struck",
+  "😂": "Face with Tears of Joy",
+  "🙃" : "Upside-Down Face",
+  "😉" : "Winking Face" ,
+  "😆" : "Grinning Squinting Face" ,
+  "😅" : "Grinning Face with Sweat" ,
+  "😎" : "Smiling Face with Sunglasses"
 
   /** add some more to show how the app now expands when there's new data */
 };
