@@ -52,8 +52,8 @@ export default function App() {
           minWidth: "80%"
         }}
       />
-      <h2> {emoji} </h2> {/** Concept 1: JSX */}
-      <h3> {meaning} </h3> {/** how much part is re-rendered. */}
+      <h2> {emoji} </h2> 
+      <h3> {meaning} </h3> 
       {
      
         emojis.map((emoji) => (
